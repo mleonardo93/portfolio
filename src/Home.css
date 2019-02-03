@@ -1,0 +1,22 @@
+.hero-image {
+  background-image: url("assets/desert.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.hero-text h1 {
+  font-size: 100px;
+  margin: 300px 0px 0px 25px;
+  color: #FFFFFF;
+}
+
+.hero-text h2 {
+  font-size: 50px;
+  margin: 0px 0px 0px 25px;
+  color: #CCCCCC;
+}
+

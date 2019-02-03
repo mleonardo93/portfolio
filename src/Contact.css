@@ -1,0 +1,14 @@
+.contact-background {
+  background-image: url("assets/phone.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.contact-info {
+  color: #EEEEEE;
+  margin: 15px 0px 0px 25px;
+}

@@ -1,0 +1,42 @@
+.title-text {
+  font-size: 75px;
+  margin: 50px 0px 0px 25px;
+  color: #FFFFFF;
+}
+
+.body-text {
+  font-size: 25px;
+  margin: 0px 0px 0px 25px;
+  width: 800px;
+  color: #EEEEEE;
+  line-height: 1.5em;
+}
+
+.about-background {
+  background-image: linear-gradient(to bottom, transparent 0%, black 125%), url("assets/IMG_8798.JPG");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.subheading {
+  color: #FFFFFF;
+  font-size: 35px;
+  margin: 15px 0px 0px 25px;
+}
+
+.skills-list {
+  color: #EEEEEE;
+  font-size: 20px;
+  margin: 25px 0px 0px 25px;
+}
+
+.links a {
+  display: inline-block;
+  color: #FFFFFF;
+  margin: 0px 0px 0px 25px;
+  font-size: 25px;
+}

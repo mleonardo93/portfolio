@@ -1,0 +1,30 @@
+.portfolio-background {
+  background-image: linear-gradient(to bottom, transparent 0%, black 125%), url("assets/red_pattern.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.projects li {
+  display: inline-block;
+  vertical-align: top;
+  width: 400px;
+  height: 250px;
+  padding: 10px;
+  margin: 25px;
+  border: 1px solid #FFFFFF;
+  border-radius: 10px;
+  background-color: #292929;
+}
+
+.projects a {
+  color: #c0c0c0;
+  padding: 0px;
+}
+
+.projects p {
+  color: #EEEEEE;
+}
