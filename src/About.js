@@ -27,7 +27,7 @@ class About extends Component {
           <li>Written and oral communications</li>
         </ul>
         <div className="links">
-          <a href="https://goo.gl/93TUzi"><h2>Resume</h2></a>
+          <a href="goo.gl/93TUzi"><h2>Resume</h2></a>
           <a href="linkedin.com/in/maia-leonardo"><h2>LinkedIn</h2></a>
           <a href="github.com/mleonardo93"><h2>GitHub</h2></a>
         </div>
