@@ -25,14 +25,14 @@ class App extends Component {
             <Route path="/contact" component={Contact} />
           </Switch>
 
-          <nav className="navbar">
+          <div className="navbar">
             <ul className="nav-links">
               <li><Link to="/">Home</Link></li>
               <li><Link to="/about">About</Link></li>
               <li><Link to="/portfolio">Portfolio</Link></li>
               <li><Link to="/contact">Contact</Link></li>
             </ul>
-          </nav>          
+          </div>          
         </div>
       </Router>
 
