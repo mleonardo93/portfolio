@@ -6,17 +6,24 @@
   position: absolute;
   height: 100%;
   width: 100%;
+}
+
+.hero-text {
   display: flex;
   flex-direction: column;
+  align-items: left;
+  padding: 0 0 0 2em;
 }
 
 .hero-text h1 {
   font-size: 75px;
   color: #FFFFFF;
+  margin: 2em 0 0 0;
 }
 
 .hero-text h2 {
   font-size: 50px;
   color: #CCCCCC;
+  margin: 0;
 }
 
